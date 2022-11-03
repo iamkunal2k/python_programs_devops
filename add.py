@@ -1,4 +1,4 @@
-a = int(input("enter a :"))
-b = int(input("enter b :"))
+a = 12
+b = 13
 
 print(a+b)
