@@ -1,4 +1,4 @@
-a = 12
-b = 34
+a = int(input("enter a :"))
+b = int(input("enter b :"))
 
 print(a+b)
